@@ -1,0 +1,13 @@
+.goTop {
+    position: fixed;
+    bottom: 40px;
+    right: 35px;
+    width: 80px;
+    height: 80px;
+    display: none;
+    cursor: pointer;
+    background-image: url(./icon/goTop.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    z-index: 9;
+}
